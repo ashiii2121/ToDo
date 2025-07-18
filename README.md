@@ -60,7 +60,7 @@ Make sure you have a modern browser (Chrome, Firefox, Edge) installed.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YourUsername/todo-list-app.git
+git clone https://github.com/ashiii2121/ToDo/
 
 # Navigate inside
 cd todo-list-app
